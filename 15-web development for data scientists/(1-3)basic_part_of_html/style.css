@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+.logo img {
+    vertical-align: middle;
+}
+
+.logo {
+    font-weight: bolder;
+
+    font-size: 18px;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    background-color: black;
+    color: white;
+}
